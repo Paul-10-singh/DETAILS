@@ -5,5 +5,6 @@
 - 🌱 I’m currently learning **MERN**
 - 💞️ I’m looking to collaborate on **open-source projects and innovative tech solutions**
 - 📫 How to reach me: **tensingh.paul@gmail.com**
+- 📫 MY netlify site: **https://app.netlify.com/teams/paul-10-singh/sites**
 - 😄 Pronouns: **he**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
